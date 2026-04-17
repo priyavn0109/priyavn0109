@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Devipriya 
 
-<!--
-**priyavn0109/priyavn0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+##  Skills
+- Power BI
+- SQL
+- Python (Pandas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Project
+👉 Amazon Sales BI Dashboard  
+https://github.com/priyavn0109/Amazon-Sales-BI-Dashboard
+
+##  What I do
+- Data Cleaning
+- Data Visualization
+- Business Insights 
+
